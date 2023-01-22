@@ -14,7 +14,7 @@ J2,DNP,PinHeader_1x02_P2.54mm_Horizontal,143.601,-0.408,180.0,bottom
 J3,Conn_02x25_Odd_Even,PinHeader_2x25_P2.54mm_Vertical,112.7415,-28.9195,0.0,top
 J4,I2C Pinout,PinSocket_1x06_P2.54mm_Vertical,83.835,-4.655,270.0,top
 J5,DNP,PinHeader_2x03_P2.54mm_Vertical,85.085,-21.775,-90.0,top
-J6,CONNFLY DB-25,L717SDB25PA4CH4F,112.8016,-42.5,0.0,bottom
+J6,CONNFLY DB-25,L717SDB25PA4CH4F_Flipped,112.8,-42.5,0.0,top
 J8,USB_B_Micro,U254051N4BH806,143.19,-8.6595,90.0,top
 J20,171826-4,PinHeader_1x04_P2.54mm_Vertical,105.87,-18.78,180.0,top
 R1,2k,R_0402_1005Metric,138.7585,2.4445,0.0,top

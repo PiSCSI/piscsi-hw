@@ -13,7 +13,7 @@ I2C Pinout,J4,PinSocket_1x06_P2.54mm_Vertical,C40877
 2k,"R1,R2,R4",R_0402_1005Metric,C4109
 Raspberry_Pi_2_3,J1,PinSocket_2x20_P2.54mm_Vertical,C50982
 SM4007PL,D5,D_SOD-123F,C64898
-CONNFLY DB-25,J6,L717SDB25PA4CH4F,C77838
+CONNFLY DB-25,J6,L717SDB25PA4CH4F_Flipped,C77838
 Hole1,H1,MountingHole_2.7mm_M2.5_Pad_Via,
 Hole3,H3,MountingHole_2.7mm_M2.5_Pad_Via,
 Hole4,H5,MountingHole_2.7mm_M2.5_Pad_Via,

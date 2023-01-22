@@ -5211,7 +5211,7 @@
     (uuid 00000000-0000-0000-0000-00005f38ecd6)
     (property "Reference" "S1" (id 0) (at 92.71 17.78 0))
     (property "Value" "Switch x2" (id 1) (at 107.95 17.78 0))
-    (property "Footprint" "rascsi_din:SOIC127P812X230-4N" (id 2) (at 113.03 19.05 0)
+    (property "Footprint" "SamacSys_Parts:SOIC127P812X230-4N" (id 2) (at 113.03 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/szlcsc/1810191714_Dongguan-Guangzhu-Industrial-DSHP02TSGET_C40735.pdf" (id 3) (at 113.03 21.59 0)
@@ -7255,7 +7255,7 @@
     (uuid 00000000-0000-0000-0000-00005fa017a4)
     (property "Reference" "J6" (id 0) (at 233.68 67.7926 90))
     (property "Value" "CONNFLY DB-25" (id 1) (at 233.68 70.104 90))
-    (property "Footprint" "L717SDB25PA4CH4F" (id 2) (at 226.06 114.3 0)
+    (property "Footprint" "SamacSys_Parts:L717SDB25PA4CH4F_Flipped" (id 2) (at 226.06 114.3 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://componentsearchengine.com/Datasheets/1/L717SDB25PA4CH4F.pdf" (id 3) (at 228.6 114.3 0)
@@ -8263,7 +8263,7 @@
       (reference "J5") (unit 1) (value "DNP") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005fa017a4"
-      (reference "J6") (unit 1) (value "CONNFLY DB-25") (footprint "L717SDB25PA4CH4F")
+      (reference "J6") (unit 1) (value "CONNFLY DB-25") (footprint "SamacSys_Parts:L717SDB25PA4CH4F_Flipped")
     )
     (path "/00000000-0000-0000-0000-00005fec586e/00000000-0000-0000-0000-00005fec9a88"
       (reference "J8") (unit 1) (value "USB_B_Micro") (footprint "SamacSys_Parts:U254051N4BH806")
@@ -8449,7 +8449,7 @@
       (reference "R58") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-00005f38ecd6"
-      (reference "S1") (unit 1) (value "Switch x2") (footprint "rascsi_din:SOIC127P812X230-4N")
+      (reference "S1") (unit 1) (value "Switch x2") (footprint "SamacSys_Parts:SOIC127P812X230-4N")
     )
     (path "/00000000-0000-0000-0000-00005fec586e/00000000-0000-0000-0000-00005fed04f9"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
