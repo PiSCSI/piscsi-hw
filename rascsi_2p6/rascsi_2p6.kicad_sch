@@ -4509,7 +4509,7 @@
   )
 
   (symbol (lib_id "SamacSys_Parts:Logo") (at 217.17 139.7 0) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005efcc51e)
     (property "Reference" "X1" (id 0) (at 213.36 137.16 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4547,7 +4547,7 @@
   )
 
   (symbol (lib_id "SamacSys_Parts:Logo") (at 226.06 144.78 0) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005efcd6ca)
     (property "Reference" "X2" (id 0) (at 222.25 142.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4585,7 +4585,7 @@
   )
 
   (symbol (lib_id "SamacSys_Parts:Logo") (at 217.17 142.24 0) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005efcd8d2)
     (property "Reference" "X3" (id 0) (at 213.36 139.7 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4623,7 +4623,7 @@
   )
 
   (symbol (lib_id "SamacSys_Parts:Logo") (at 226.06 139.7 0) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005efcdbc9)
     (property "Reference" "X5" (id 0) (at 222.25 137.16 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4661,7 +4661,7 @@
   )
 
   (symbol (lib_id "SamacSys_Parts:Logo") (at 226.06 143.51 180) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005efcdd94)
     (property "Reference" "X4" (id 0) (at 222.25 144.78 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4699,7 +4699,7 @@
   )
 
   (symbol (lib_id "SamacSys_Parts:Logo") (at 226.06 142.24 0) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005efcdfad)
     (property "Reference" "X6" (id 0) (at 222.25 139.7 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5138,7 +5138,7 @@
   )
 
   (symbol (lib_id "SamacSys_Parts:Logo") (at 217.17 143.51 180) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f2d2b3b)
     (property "Reference" "X7" (id 0) (at 213.36 144.78 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -7254,7 +7254,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fa017a4)
     (property "Reference" "J6" (id 0) (at 233.68 67.7926 90))
-    (property "Value" "CONNFLY DB-25" (id 1) (at 233.68 70.104 90))
+    (property "Value" "" (id 1) (at 233.68 70.104 90))
     (property "Footprint" "L717SDB25PA4CH4F" (id 2) (at 226.06 114.3 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
@@ -7312,7 +7312,7 @@
   )
 
   (symbol (lib_id "SamacSys_Parts:Logo") (at 217.17 140.97 180) (unit 1)
-    (in_bom no) (on_board no)
+    (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fb668ef)
     (property "Reference" "X8" (id 0) (at 213.36 142.24 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -7672,7 +7672,7 @@
     (property "Datasheet" "https://datasheet.lcsc.com/szlcsc/1811111512_BOOMELE-Boom-Precision-Elec-C50982_C50982.pdf" (id 3) (at 49.53 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C169819" (id 4) (at 49.53 113.03 0)
+    (property "LCSC" "C50982" (id 4) (at 49.53 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "Female Header 40 2 right-angle，180degrees 2.54mm 2.54mm Pin Header & Female Header RoHS" (id 5) (at 49.53 113.03 0)
