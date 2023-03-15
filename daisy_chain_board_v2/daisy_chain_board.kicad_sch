@@ -1040,7 +1040,7 @@
     (effects (font (size 1.4986 1.4986) (thickness 0.2997) bold) (justify left bottom))
     (uuid 8d0c1d66-35ef-4a53-a28f-436a11b54f42)
   )
-  (text "RaSCSI Daisy Chain Board" (at 171.45 197.104 0)
+  (text "PiSCSI Daisy Chain Board" (at 171.45 197.104 0)
     (effects (font (size 2.2098 2.2098) (thickness 0.442) bold) (justify left bottom))
     (uuid 9193c41e-d425-447d-b95c-6986d66ea01c)
   )
